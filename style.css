@@ -1,0 +1,27 @@
+body {
+    background-color: #AD8B73;
+}
+.main {
+    margin-left: 500px;
+    height: 200px;
+    width: 400px;
+    background-color: #CEAB93;
+    color: #FFFBE9;
+}
+.left {
+    float: left;
+    height: 100%;
+    width: 50%;
+    /* display: flex;
+    align-items: center; */
+
+}
+.right {
+    float: left;
+    width: 50%;
+    height: 100%;
+} 
+button {
+    background-color: #E3CAA5;
+    border: 2px solid #E3CAA5;
+} 
